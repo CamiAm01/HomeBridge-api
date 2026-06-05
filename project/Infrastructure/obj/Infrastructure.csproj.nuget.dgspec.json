@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Domain\\Domain.csproj": {
+    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Domain\\Domain.csproj",
+        "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Kamila\\.nuget\\packages\\",
-        "outputPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Domain\\obj\\",
+        "outputPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj"
+              "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kamila\\.nuget\\packages\\",
-        "outputPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Infrastructure\\obj\\",
+        "outputPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,11 +109,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Domain\\Domain.csproj"
+              "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Domain\\Domain.csproj"
               },
-              "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj"
+              "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj": {
+    "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\Shared.csproj",
+        "projectPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Kamila\\.nuget\\packages\\",
-        "outputPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Shared\\obj\\",
+        "outputPath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

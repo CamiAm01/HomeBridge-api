@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRjsycmUyFw=",
+  "dgSpecHash": "a4QBvLOGBF8=",
   "success": true,
-  "projectFilePath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\homebridge-api-master\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\CAMILA\\UPC\\Prácticas\\Repositorios\\HomeBridge-api\\project\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kamila\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Kamila\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
