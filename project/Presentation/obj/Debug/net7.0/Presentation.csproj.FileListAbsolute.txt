@@ -1,0 +1,124 @@
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\appsettings.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Presentation.exe
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Presentation.deps.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Presentation.runtimeconfig.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Presentation.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Presentation.pdb
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Application.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Domain.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Shared.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Application.pdb
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Domain.pdb
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Shared.pdb
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.build.Presentation.props
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\scopedcss\bundle\Presentation.styles.css
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.pdb
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\ref\Presentation.dll
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\bin\Debug\net7.0\Presentation.xml
+C:\Users\USUARIO\Desktop\AppMoviles\SaleSquare\Presentation\obj\Debug\net7.0\Presentation.xml
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\appsettings.Development.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\appsettings.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Presentation.exe
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Presentation.runtimeconfig.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Presentation.xml
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\AutoMapper.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\BCrypt.Net.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\MySqlConnector.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Application.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Domain.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Infrastructure.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Shared.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Application.pdb
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Domain.pdb
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Infrastructure.pdb
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\bin\Debug\net7.0\Shared.pdb
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.build.Presentation.props
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets.build.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\staticwebassets.development.json
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\scopedcss\bundle\Presentation.styles.css
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.xml
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
+D:\CAMILA\UPC\Ciclo 6\Aplicaciones para Dispositivos Moviles\Trabajo grupo\homebridge-api\Presentation\obj\Debug\net7.0\ref\Presentation.dll
